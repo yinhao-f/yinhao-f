@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently doing my BSc. in Computer Science
+- 🌱 I’m currently learning `C`, `TypeScript`, and Linux
+
+### Checkout my [notebook](https://yinhao-f.github.io/notes/)
